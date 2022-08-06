@@ -31,7 +31,14 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"ms-python.python",
-				"ms-python.vscode-pylance"
+				"ms-python.vscode-pylance",
+				"formulahendry.code-runner",
+				"donjayamanne.githistory",
+				"GitHub.copilot",
+				"eamodio.gitlens",
+				"oderwat.indent-rainbow",
+				"WakaTime.vscode-wakatime"
+
 			]
 		}
 	},
